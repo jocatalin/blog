@@ -1,7 +1,8 @@
 baseURL = "https://jocatalin.com"
-title = "catalin jora | personal blog"
+title = "catalin jora's blog"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
+logo = "/images/logo.jpg"
 
 theme = "minimo"
 
