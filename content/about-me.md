@@ -6,7 +6,7 @@ menu: main
 ---
 
 Hi there, I'm Catalin, a software engineer located in the Netherlands. Currently I'm consulting on [cloud native technologies](https://cncf.io) and bootstrapping a product around cloud computing cost: [Oktamize] (https://oktamzie.com). 
-I'm also the organizer of the [Dutch Docker meetup](https://www.meetup.com/Docker-Randstad/) and one of the organizers of [Serverless Days Amsterdam conference](https://serverlessdays.amsterdam)
+I'm also the organizer of the [Randstad Docker meetup](https://www.meetup.com/Docker-Randstad/) and one of the organizers of [Serverless Days Amsterdam conference](https://serverlessdays.amsterdam)
 
 I'll blog about my journey into bootstrapping a company (second attempt), tech events, tech how-to's (Docker, Kubernetes, etc) and books worth reading.
 

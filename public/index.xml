@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>catalin jora&#39;s blog</title>
+    <link>https://jocatalin.com/</link>
+    <description>Recent content on catalin jora&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jocatalin.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>info</title>
+      <link>https://jocatalin.com/about-me/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jocatalin.com/about-me/</guid>
+      <description>Hi there, I&amp;rsquo;m Catalin, a software engineer located in the Netherlands. Currently I&amp;rsquo;m consulting on cloud native technologies and bootstrapping a product around cloud computing cost: Oktamize. I&amp;rsquo;m also the organizer of the Dutch Docker meetup and one of the organizers of Serverless Days Amsterdam conference
+I&amp;rsquo;ll blog about my journey into bootstrapping a company (second attempt), tech events, tech how-to&amp;rsquo;s (Docker, Kubernetes, etc) and books worth reading.
+You can reach out by twitter (DM&amp;rsquo;s are open) or email: catalin [@] oktamize.</description>
+    </item>
+    
+  </channel>
+</rss>
