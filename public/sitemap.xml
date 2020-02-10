@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>https://jocatalin.com/tech-event/docker-randstad-meetup-january-2019/</loc>
+    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jocatalin.com/authors/</loc>
     <priority>0</priority>
   </url>
@@ -28,8 +33,26 @@
   </url>
   
   <url>
+    <loc>https://jocatalin.com/tech-event/</loc>
+    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jocatalin.com/</loc>
     <lastmod>2019-02-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jocatalin.com/tags/meetup/</loc>
+    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jocatalin.com/tags/tech-events/</loc>
+    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
