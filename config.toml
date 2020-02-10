@@ -1,5 +1,5 @@
 baseURL = "https://jocatalin.com"
-title = "catalin jora's blog"
+title = ""
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
 logo = "/images/logo.png"
@@ -23,7 +23,7 @@ enableEmoji = true
 defaultContentLanguage = "en"
 
 [params.info]
-description = "tech, entrepreneurship & book reviews"
+description = "cloud tech, entrepreneurship & book reviews"
 title404 = "Which way did it go? 404"
 
 [params.assets]
@@ -123,10 +123,11 @@ tag = "tags"
 page = "/:slug/"
 
 [[menu.main]]
-name = "Repo"
+name = "Home"
 weight = -10
-identifier = "repository"
-url = "https://github.com/jocatalin/blog"
+identifier = "home"
+url = "https://jocatalin.com"
+
 
 [blackfriday]
 hrefTargetBlank = true
